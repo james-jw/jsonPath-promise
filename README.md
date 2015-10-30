@@ -1,2 +1,4 @@
-# jsonPath-promise
-Adds promise and async support to Stefan Goessner's JsonPath implementation.
+# jsonPathAsync
+Adds promise, async and knockout.js support to Stefan Goessner's JsonPath implementation.
+
+More to come..
